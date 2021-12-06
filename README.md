@@ -2,7 +2,8 @@
 
 - 🌱 I’m currently learning:
 
-![alt rust](https://www.rust-lang.org/static/images/rust-logo-blk.svg) <img src="https://rubyonrails.org/images/rails-logo.svg" width="100" height="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="40" height="40">  <img src="https://rubyonrails.org/images/rails-logo.svg" width="60" height="60">
+
 
 
 - I also love polar bears
